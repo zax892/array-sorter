@@ -9,5 +9,5 @@ This is a simple Java program that sorts arrays of integers and strings.
 ## How to Use
 1. Clone the repository: `git clone https://github.com/zax892/array-sorter.git`
 2. Navigate to the project directory.
-3. Compile the Java files:
-4. Run Main.java
+3. Compile the Java files using 'javac Main'
+4. Run Main.java in bash
