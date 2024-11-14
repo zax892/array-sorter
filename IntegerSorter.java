@@ -1,7 +1,7 @@
 public class IntegerSorter {
 
     public int[] sortIntegers(int[] array) {
-        // Bubble sort is to sort integers in ascending order
+        // Bubble sort is used for sorting integers numerically
         for (int i = 0; i < array.length - 1; i++) {
             for (int j = i + 1; j < array.length; j++) {
                 if (array[i] > array[j]) {
